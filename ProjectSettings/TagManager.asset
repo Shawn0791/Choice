@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cell
+  - Desert
+  - Exit
+  - Exit2
+  - Person
+  - Conversation1
+  - Conversation2
+  - Conversation3
+  - StartPos
+  - BGM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3422004205
+    locked: 0
+  - name: Item
+    uniqueID: 2897886037
+    locked: 0
+  - name: Forground
+    uniqueID: 1278548123
+    locked: 0

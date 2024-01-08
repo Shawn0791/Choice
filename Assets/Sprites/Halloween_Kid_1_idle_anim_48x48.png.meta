@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: f844646f689aee94b8dcdf0422860f68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d6a318cf8fc54db5e11b991bc5087
+      internalID: -756119230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98bc7675a155cd45b0f997b867b86ba
+      internalID: -1839013982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11498825063d7e4c8ac9b50e790d0a7
+      internalID: -1414895596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ae81172737718419e2e29d53217697
+      internalID: 1758407350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975adf4bf99543443b67b4d0a0935bc7
+      internalID: -2030233145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45274cde7f156458ad9cde8c33ae36
+      internalID: -1335025615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaaf80d662b8144e91853eab96d902d
+      internalID: -1540975420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acfb7f263e11545b94195606ed7d3d
+      internalID: 1157762217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234dae591e6a65b4c9dc51c8d0381287
+      internalID: -2136717222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bea8b413065d148a2817b4df33ec0e
+      internalID: -1307175117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d248f32c0a7be7843a91ebcdbfcf1c08
+      internalID: -1864286459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d62cd3bf0dfe40a22e257e18cf5ce
+      internalID: -348940348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d37beb549e3f948bec7c4f6964542d
+      internalID: -1037868136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6148da601f8f3d4a986d5e137f54b2e
+      internalID: -476650278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ede85ecd6154224fabeb82ccbbfce79
+      internalID: -1698434168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd018b656725854f8db6e4b9a76f543
+      internalID: -1980249234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aff8e0d1ddd874f901025d2094f2fc
+      internalID: -1229736543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fade7a37c2534a81efe7ff7c63a6b
+      internalID: -369648672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df0bdac2cef8bf44a65c08afdc18975
+      internalID: -406832919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b8d78f75cde14c84faef69522b609
+      internalID: 32261804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8090d225036deb468506273a9e82f37
+      internalID: -5126808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 0
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7232ad8f116f41b14c1e95ea4c8ec
+      internalID: 1727107947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 0
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b5db84296118a4cb7d0bcf99166dbc
+      internalID: -1593258538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween_Kid_1_idle_anim_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96fdaa6117994498a45fa2e74b7883
+      internalID: 1381588964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Halloween_Kid_1_idle_anim_48x48_15: -1980249234
+      Halloween_Kid_1_idle_anim_48x48_18: -406832919
+      Halloween_Kid_1_idle_anim_48x48_22: -1593258538
+      Halloween_Kid_1_idle_anim_48x48_14: -1698434168
+      Halloween_Kid_1_idle_anim_48x48_17: -369648672
+      Halloween_Kid_1_idle_anim_48x48_23: 1381588964
+      Halloween_Kid_1_idle_anim_48x48_6: -1540975420
+      Halloween_Kid_1_idle_anim_48x48_12: -1037868136
+      Halloween_Kid_1_idle_anim_48x48_3: 1758407350
+      Halloween_Kid_1_idle_anim_48x48_4: -2030233145
+      Halloween_Kid_1_idle_anim_48x48_1: -1839013982
+      Halloween_Kid_1_idle_anim_48x48_2: -1414895596
+      Halloween_Kid_1_idle_anim_48x48_0: -756119230
+      Halloween_Kid_1_idle_anim_48x48_16: -1229736543
+      Halloween_Kid_1_idle_anim_48x48_20: -5126808
+      Halloween_Kid_1_idle_anim_48x48_7: 1157762217
+      Halloween_Kid_1_idle_anim_48x48_5: -1335025615
+      Halloween_Kid_1_idle_anim_48x48_19: 32261804
+      Halloween_Kid_1_idle_anim_48x48_10: -1864286459
+      Halloween_Kid_1_idle_anim_48x48_11: -348940348
+      Halloween_Kid_1_idle_anim_48x48_13: -476650278
+      Halloween_Kid_1_idle_anim_48x48_21: 1727107947
+      Halloween_Kid_1_idle_anim_48x48_9: -1307175117
+      Halloween_Kid_1_idle_anim_48x48_8: -2136717222
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
